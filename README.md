@@ -6,7 +6,7 @@ Functionalities to cover:
 2. Able to manage (add/edit/remove) Products (Soap, biscuits, box, rice ...) through database - Sales and Manager  
 3. Need to display all the available products and its information in a shop (Get data from database and show the information) - Manager  
 4. Add the product to cart - Sales and Manager  
-5. Generate Bill (in pdf or java console) for the products customer bought - Sales and manager 
+5. Generate Bill (in pdf or java console) for the products customer bought - Sales and Manager 
 6. Able to get profit on a particular date - Manager  
 7. Calculate tax for each bill and get the tax percentage from database.  
 8. Able to get total tax paid for a particular month - Manager  
