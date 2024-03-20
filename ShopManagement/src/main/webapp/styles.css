@@ -1,0 +1,111 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+body {
+	background-color: #96ffff;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px; /* Add padding to create some space around the table */
+}
+
+
+h1, h2{
+    margin-top: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+
+form input {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+
+body {
+	background-color: #96ffff;
+        font-family: Arial, sans-serif;
+        background-color: #eaeaea;
+        margin: 0;
+        padding: 20px; /* Add padding to create some space around the table */
+    }
+
+    h1 {
+        text-align: center;
+        margin-top: 20px;
+        color: #333;
+    }
+
+    table {
+        width: 80%; /* Set the width to 80% of the viewport */
+        margin: 0 auto; /* Center the table horizontally */
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #a9d8e6; /* Different background color for the header row */
+        color: #333; /* Dark text color for table headers */
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9; /* Light background color for even rows */
+    }
+
+    .product-image {
+        max-width: 100px;
+        height: auto;
+    }
+    button {
+	    margin: 10px;
+	    padding: 10px 20px;
+	    font-size: 16px;
+	    cursor: pointer;
+	    background-color: #007bff;
+	    color: #fff;
+	    border: none;
+	    border-radius: 5px;
+	}
+
+	button:hover {
+	    background-color: #0056b3;
+	}
